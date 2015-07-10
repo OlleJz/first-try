@@ -1,0 +1,12 @@
+#yta1, #yta2, #yta3{
+	background-color:#CBDFDC;
+	width:300px;
+	/* height: 350px; */
+	float:left;
+	text-align:center;
+	margin: 4px;
+}
+
+p{
+	font: italic 14px/150% Arial, Helvetica, sans-serif;
+}
